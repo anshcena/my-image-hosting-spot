@@ -1,3 +1,3 @@
 <div align="center">
-  <h1>GIT-CLOUD</h1>
+  <h1>:octocat: GIT-CLOUD :cloud: </h1>
 </div>
